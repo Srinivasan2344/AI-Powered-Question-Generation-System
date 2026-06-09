@@ -1,0 +1,21 @@
+{
+    "context": "Artificial Intelligence is a branch of computer science that enables machines\n    to learn, reason, and make decisions.",
+    "question": "What is the term for the ability to learn?",
+    "question_valid": true,
+    "answer": "Artificial Intelligence",
+    "explanation": "Artificial Intelligence is the correct answer based on the given context.",
+    "difficulty": "Medium",
+    "topic": "Artificial Intelligence",
+    "subject": "Computer Science",
+    "question_type": "MCQ",
+    "mcq": {
+        "question": "What is the term for the ability to learn?",
+        "options": [
+            "Option B",
+            "Artificial Intelligence",
+            "Option C",
+            "Option D"
+        ],
+        "correct_answer": "Artificial Intelligence"
+    }
+}
