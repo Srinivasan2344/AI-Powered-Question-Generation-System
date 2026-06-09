@@ -1,5 +1,6 @@
 def classify_difficulty(question):
 
+
     words = len(question.split())
 
     if words < 8:

@@ -1,5 +1,6 @@
 def validate_question(question):
 
+
     if not question:
         return False
 

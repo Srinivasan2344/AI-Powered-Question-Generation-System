@@ -9,7 +9,6 @@ from datasets import load_dataset
 dataset = load_dataset("allenai/sciq")
 
 print(dataset["train"][0])
-
 print("Train Size:", len(dataset["train"]))
 print("Validation Size:", len(dataset["validation"]))
 print("Test Size:", len(dataset["test"]))

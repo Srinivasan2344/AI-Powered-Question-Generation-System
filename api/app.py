@@ -28,6 +28,7 @@ def generate_assessment(data: InputData):
 
     end = time.time()     # <-- Inga add pannu
 
+
     return {
         "context": context,
         "question": question,

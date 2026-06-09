@@ -8,7 +8,6 @@ def generate_mcq(question, answer):
         "Option C",
         "Option D"
     ]
-
     random.shuffle(options)
 
     return {
